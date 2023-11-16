@@ -15,7 +15,7 @@ jobs:
         password: ${{ secrets.GITHUB_TOKEN }}
 
     env:
-      NPM_TOKEN: ${{ secrets.LAYRZ_NPM_TOKEN }}
+      NPM_TOKEN: ${{ secrets.LAYRZ_PUBLIC_NPM_TOKEN }}
 
     steps:
       - name: Checkout
