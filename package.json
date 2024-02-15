@@ -1,13 +1,13 @@
 {
   "name": "vuetify-color-field",
   "author": "Layrz Software <software@layrz.com>",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/goldenm-software/vuetify-color-field"
   },
-  "homepage": "https://github.com/goldenm-software/vuetify-color-field#readme",
+  "homepage": "https://developers.layrz.com/components/vue/vuetify-color-field",
   "description": "Vuetify color picker field",
   "keywords": [
     "vuetify",
